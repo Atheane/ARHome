@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f48271164b2e4967b0a71eb8bc546f8, type: 3}
+  m_Name: chairSO
+  m_EditorClassIdentifier: 
+  title: Chaise style scandinave
+  price: 22.99
+  dimensions: L50 x P54.5 x H80 cm
+  description: "La jolie harmonie entre le bois clair et la couleur blanche de leur
+    assise et de leur dossier fait de ces chaises de cuisine ou salle \xE0 manger
+    de beaux si\xE8ges nordiques au style d\xE9licat."

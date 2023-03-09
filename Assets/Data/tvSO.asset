@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f48271164b2e4967b0a71eb8bc546f8, type: 3}
+  m_Name: tvSO
+  m_EditorClassIdentifier: 
+  title: TV LED Philips
+  price: 199.99
+  dimensions: L55.3 x P14.4 x H37 cm
+  description: "Appr\xE9ciez tout ce que vous regardez avec ce t\xE9l\xE9viseur LED.
+    Le moteur Philips Pixel Plus HD optimise la qualit\xE9 de l'image pour offrir
+    des images nettes, des couleurs riches et des mouvements fluides. Vous b\xE9n\xE9ficierez
+    toujours d'une exp\xE9rience visuelle optimale. "

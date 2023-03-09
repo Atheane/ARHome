@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f48271164b2e4967b0a71eb8bc546f8, type: 3}
+  m_Name: sofaSO
+  m_EditorClassIdentifier: 
+  title: "Canap\xE9 3 places, Gunnared gris"
+  price: 649
+  dimensions: L241 x P98 x H83 cm
+  description: "Ce canap\xE9 moelleux vous tiendra longtemps compagnie car ses coussins
+    d\u2019assise sont garnis de mousse haute r\xE9silience, qui apporte un bon soutien
+    \xE0 votre corps et reprend rapidement sa forme lorsque vous vous levez."
